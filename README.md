@@ -15,6 +15,32 @@
 
 ---
 
+<!-- Connect With Me -->
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="www.linkedin.com/in/kishore-s-9982982bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kishoreuses/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:Kishoreuses@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- LeetCode Stats -->
+## 📈 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kishoreuses?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 <!-- Tech Stack -->
 ## 🛠 Tech Stack  
 
@@ -56,12 +82,61 @@
 
 ---
 
-<!-- Projects -->
-## 🚀 Projects
-- 🧶 **Fleece-Wool** – Mobile app (Smart India Hackathon, KEC)  
-- 🏗 **Earthmovers App** – Academic Consultancy Project, KEC  
-- 🤝 **Mentor Connect** – Mobile app (Smart India Hackathon, KEC)  
-- 🚴 **Bike Inventory Management** – Java JDBC Mini Project  
+<!-- Projects Showcase -->
+## 🚀 Featured Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧶 Fleece-Wool</h3>
+      <p align="center">Mobile app developed for Smart India Hackathon at KEC.</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/Fleece-Wool" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://your-live-demo-link.com" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏗 Earthmovers App</h3>
+      <p align="center">Academic consultancy project for construction material rental & order tracking.</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/Earthmovers-App" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://your-earthmovers-demo-link.com" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤝 Mentor Connect</h3>
+      <p align="center">Mobile app for student-mentor interaction built for Smart India Hackathon.</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/Mentor-Connect" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://your-mentor-connect-demo.com" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚴 Bike Inventory Management</h3>
+      <p align="center">Java JDBC mini project for managing bike inventory.</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/Bike-Inventory-Management" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,13 +150,22 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishoreuses&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreuses&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishoreuses&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kishoreuses&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishoreuses&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
