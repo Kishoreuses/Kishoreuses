@@ -88,13 +88,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧶 Fleece-Wool</h3>
-      <p align="center">Mobile app developed for Smart India Hackathon at KEC.</p>
+      <h3 align="center">BIKEHOUSE</h3>
+      <p align="center">Web Application using React.js Mongodb atlas </p>
       <p align="center">
-        <a href="https://github.com/Kishoreuses/Fleece-Wool" target="_blank">
+        <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://your-live-demo-link.com" target="_blank">
+        <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
         </a>
       </p>
@@ -103,10 +103,10 @@
       <h3 align="center">🏗 Earthmovers App</h3>
       <p align="center">Academic consultancy project for construction material rental & order tracking.</p>
       <p align="center">
-        <a href="https://github.com/Kishoreuses/Earthmovers-App" target="_blank">
+        <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://your-earthmovers-demo-link.com" target="_blank">
+        <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
         </a>
       </p>
@@ -118,10 +118,10 @@
       <h3 align="center">🤝 Mentor Connect</h3>
       <p align="center">Mobile app for student-mentor interaction built for Smart India Hackathon.</p>
       <p align="center">
-        <a href="https://github.com/Kishoreuses/Mentor-Connect" target="_blank">
+        <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git"_blank">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://your-mentor-connect-demo.com" target="_blank">
+        <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=google-chrome" />
         </a>
       </p>
@@ -130,7 +130,7 @@
       <h3 align="center">🚴 Bike Inventory Management</h3>
       <p align="center">Java JDBC mini project for managing bike inventory.</p>
       <p align="center">
-        <a href="https://github.com/Kishoreuses/Bike-Inventory-Management" target="_blank">
+        <a href="https://github.com/Kishoreuses/Java_JDBC.git" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
