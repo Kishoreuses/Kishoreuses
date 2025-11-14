@@ -7,10 +7,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Pursuing **M.Sc. Software Systems** — Kongu Engineering College (CGPA: **8.55**)  
-- 🚀 Passionate about **Web, Mobile App Development, Backend Engineering**  
-- 📩 Email: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
-- 🐙 GitHub: [github.com/Kishoreuses](https://github.com/Kishoreuses)  
-- 📱 Contact: **+91 96778 71881**
+- 🚀 Passionate about **Web Development**, **Mobile App Development**, and **Backend Engineering**  
+- 📫 Email: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
+- 💻 GitHub: **github.com/Kishoreuses**  
+- 📱 Phone: **+91 96778 71881**
 
 ---
 
@@ -29,31 +29,31 @@
 
 ---
 
-## 📈 LeetCode Stats (Live)
+## 📈 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kishoreuses?theme=dark&font=baloo&ext=heatmap&border=1ABC9C" width="450" />
+  <img src="https://leetcard.jacoblin.cool/kishoreuses?theme=dark&font=baloo&ext=heatmap" width="450" />
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 **Frontend**
+### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter,react" />
 </p>
 
-### ⚙️ **Backend**
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,php,python,cpp,cs" />
 </p>
 
-### 🗄 **Databases**
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 **Tools / Version Control**
+### 🔧 Tools / Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
@@ -61,91 +61,74 @@
 ---
 
 # 🎯 Area of Interest
-- Java Application Development (Core Java, JDBC)  
-- Object-Oriented Programming (OOP)  
-- Spring Boot & REST API Development  
-- Full-Stack Web Development  
-- Database-Driven Applications (MySQL / MongoDB / Firebase)  
-- Mobile App Development using Flutter  
+- **Java Application Development** (Core Java, JDBC)  
+- **Object-Oriented Programming (OOP)**  
+- **Spring Boot & REST API Development**  
+- **Full-Stack Web Development**  
+- **Database Applications (MySQL / MongoDB / Firebase)**  
+- **Mobile App Development (Flutter)**  
 
 ---
 
 # 📜 Certifications
-- Oracle Certified Generative AI Professional — Oracle (2025)  
-- Oracle APEX Cloud Developer — Oracle (2025)  
-- Fundamentals of Deep Learning — NVIDIA DLI (2025)  
+- **Oracle Certified Generative AI Professional** — Oracle (2025)  
+- **Oracle APEX Cloud Developer** — Oracle (2025)  
+- **Fundamentals of Deep Learning** — NVIDIA DLI (2025)  
 
 ---
 
-# 🚀 Featured Projects (💎 Enhanced Interactive UI)
-
-## 🔥 **Modern Project Cards Layout**
-
-<style>
-.project-card {
-  border-radius: 12px;
-  padding: 18px;
-  background: #0d1117;
-  border: 1px solid #1abc9c55;
-  transition: 0.3s;
-}
-.project-card:hover {
-  transform: scale(1.03);
-  border-color: #1abc9c;
-  box-shadow: 0 0 18px #1abc9c55;
-}
-</style>
+# 🚀 Featured Projects (Fully GitHub-Compatible Cards)
 
 <table>
   <tr>
     <td width="50%">
-      <div class="project-card">
-        <h3 align="center">🚲 BIKEHOUSE</h3>
-        <p align="center">Full-stack Web App using React + MongoDB Atlas.</p>
-        <p align="center">
-          <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repo-1abc9c?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </div>
+      <h3 align="center">🚲 BIKEHOUSE</h3>
+      <p align="center"><b>Full-Stack Web Application</b></p>
+      <p align="center">React.js • MongoDB Atlas • User-friendly UI</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <hr/>
     </td>
 
     <td width="50%">
-      <div class="project-card">
-        <h3 align="center">🏗 Earthmovers App</h3>
-        <p align="center">Construction materials renting + order tracking (Flutter + Firebase).</p>
-        <p align="center">
-          <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repo-1abc9c?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </div>
+      <h3 align="center">🏗 Earthmovers App</h3>
+      <p align="center"><b>Construction Material Rental + Tracking</b></p>
+      <p align="center">Flutter • Firebase • Admin & Driver Panels</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <hr/>
     </td>
   </tr>
 
   <tr>
     <td width="50%">
-      <div class="project-card">
-        <h3 align="center">🤝 Mentor Connect</h3>
-        <p align="center">Mobile app for Students–Mentor interaction (SIH Project).</p>
-        <p align="center">
-          <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repo-1abc9c?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </div>
+      <h3 align="center">🤝 Mentor Connect</h3>
+      <p align="center"><b>Student–Mentor Interaction App (SIH)</b></p>
+      <p align="center">Flutter • Firebase • Assignment & Chat System</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <hr/>
     </td>
 
     <td width="50%">
-      <div class="project-card">
-        <h3 align="center">🚴 Bike Inventory Management</h3>
-        <p align="center">Java JDBC Mini Project with CRUD Operations.</p>
-        <p align="center">
-          <a href="https://github.com/Kishoreuses/Java_JDBC.git" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repo-1abc9c?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </div>
+      <h3 align="center">🚴 Bike Inventory Management</h3>
+      <p align="center"><b>Java JDBC Mini Project</b></p>
+      <p align="center">MySQL • CRUD Operations</p>
+      <p align="center">
+        <a href="https://github.com/Kishoreuses/Java_JDBC.git" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <hr/>
     </td>
   </tr>
 </table>
@@ -153,9 +136,9 @@
 ---
 
 # 🏆 Achievements
-- 🥈 **2nd Prize** – Blind Code (Quantum Fest, KEC)  
-- 📝 Presented Paper on *Blockchain Technology*  
-- 🥇 **1st Prize** – Project Presentation (Mentor Connect, Spring Fest 2K24)  
+- 🥈 **2nd Prize** — Blind Code Event (Quantum Fest, KEC)  
+- 📝 Presented Paper — *Blockchain Technology* (Quantum Fest, KEC)  
+- 🥇 **1st Prize** — Project Presentation (*Mentor Connect*) at Spring Fest 2K24  
 
 ---
 
