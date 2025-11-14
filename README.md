@@ -6,24 +6,24 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **M.Sc. Software Systems** — Kongu Engineering College (CGPA: **8.55**)  
-- 🚀 Passionate about **Web Development**, **Mobile App Development**, and **Backend Engineering**  
-- 📫 Email: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
-- 💻 GitHub: **github.com/Kishoreuses**  
-- 📱 Phone: **+91 96778 71881**
+- 🎓 Pursuing **M.Sc. Software Systems** — *Kongu Engineering College* (CGPA: **8.55**)  
+- 🚀 Passionate about **Web Development**, **Mobile Apps (Flutter)**, & **Backend Engineering**  
+- 📬 Email: **Kishoreuses@gmail.com**  
+- 🐙 GitHub: **github.com/Kishoreuses**  
+- 📱 Contact: **+91 96778 71881**
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kishore-s-9982982bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/kishoreuses/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-85%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-85_Solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:Kishoreuses@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter,react" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,php,python,cpp,cs" />
 </p>
@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 Tools / Version Control
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
@@ -61,33 +61,35 @@
 ---
 
 # 🎯 Area of Interest
-- **Java Application Development** (Core Java, JDBC)  
-- **Object-Oriented Programming (OOP)**  
-- **Spring Boot & REST API Development**  
-- **Full-Stack Web Development**  
-- **Database Applications (MySQL / MongoDB / Firebase)**  
-- **Mobile App Development (Flutter)**  
+- Java Application Development (Core Java & JDBC)  
+- Object-Oriented Programming (OOP)  
+- Spring Boot & RESTful API Development  
+- Full-Stack Web Development  
+- Database-Driven Applications  
+- Mobile App Development using Flutter  
 
 ---
 
 # 📜 Certifications
-- **Oracle Certified Generative AI Professional** — Oracle (2025)  
-- **Oracle APEX Cloud Developer** — Oracle (2025)  
-- **Fundamentals of Deep Learning** — NVIDIA DLI (2025)  
+- 📘 **Oracle Certified Generative AI Professional** (2025)  
+- ☁️ **Oracle APEX Cloud Developer** (2025)  
+- 🧠 **Fundamentals of Deep Learning** — NVIDIA DLI (2025)  
 
 ---
 
-# 🚀 Featured Projects (Fully GitHub-Compatible Cards)
+# 🚀 Featured Projects (Premium Edition)
+
+## 🔥 **Row 1**
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🚲 BIKEHOUSE</h3>
       <p align="center"><b>Full-Stack Web Application</b></p>
-      <p align="center">React.js • MongoDB Atlas • User-friendly UI</p>
+      <p align="center">React.js • MongoDB Atlas • Responsive UI • Search & Filters</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/🔗_View_Project-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <hr/>
@@ -95,25 +97,31 @@
 
     <td width="50%">
       <h3 align="center">🏗 Earthmovers App</h3>
-      <p align="center"><b>Construction Material Rental + Tracking</b></p>
-      <p align="center">Flutter • Firebase • Admin & Driver Panels</p>
+      <p align="center"><b>Construction Material Rental & Tracking App</b></p>
+      <p align="center">Flutter • Firebase • Admin & Driver Panels • Push Notifications</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/🔗_View_Project-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <hr/>
     </td>
   </tr>
+</table>
 
+---
+
+## ⚡ **Row 2**
+
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">🤝 Mentor Connect</h3>
-      <p align="center"><b>Student–Mentor Interaction App (SIH)</b></p>
-      <p align="center">Flutter • Firebase • Assignment & Chat System</p>
+      <p align="center"><b>Student–Mentor Interaction App (Smart India Hackathon)</b></p>
+      <p align="center">Flutter • Firebase • Task Assignment • Document Sharing</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/🔗_View_Project-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <hr/>
@@ -121,11 +129,11 @@
 
     <td width="50%">
       <h3 align="center">🚴 Bike Inventory Management</h3>
-      <p align="center"><b>Java JDBC Mini Project</b></p>
-      <p align="center">MySQL • CRUD Operations</p>
+      <p align="center"><b>Java JDBC CRUD Operations</b></p>
+      <p align="center">Java • JDBC • MySQL • Console Application</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/Java_JDBC.git" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-1abc9c?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/🔗_View_Project-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <hr/>
@@ -136,9 +144,9 @@
 ---
 
 # 🏆 Achievements
-- 🥈 **2nd Prize** — Blind Code Event (Quantum Fest, KEC)  
-- 📝 Presented Paper — *Blockchain Technology* (Quantum Fest, KEC)  
-- 🥇 **1st Prize** — Project Presentation (*Mentor Connect*) at Spring Fest 2K24  
+- 🥈 **2nd Prize** — Blind Code (Quantum Fest, KEC)  
+- 📝 Paper Presentation — *Blockchain Technology*  
+- 🥇 **1st Prize** — Project Presentation (*Mentor Connect*)  
 
 ---
 
