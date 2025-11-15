@@ -10,7 +10,7 @@
 - 🚀 Passionate about **Web Development, Mobile App Development & Java Backend**  
 - 📫 Email: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
 - 💻 GitHub: [github.com/Kishoreuses](https://github.com/Kishoreuses)  
-- 📱 Phone: **+91 9677871881**  
+
 
 ---
 
@@ -76,15 +76,15 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="CERTIFICATIONS/Oracle Cloud Infrastructure Gen AI_page1.jpg" width="300px"/><br>
+      <img src="https://github.com/Kishoreuses/CERTIFICATIONS/Oracle Cloud Infrastructure Gen AI_page1.jpg" width="300px"/><br>
       <b>Oracle Certified Generative AI Professional</b>
     </td>
     <td align="center" width="33%">
-      <img src="CERTIFICATIONS/Oracle Apex Cloud_page1.jpg" width="300px"/><br>
+      <img src="https://github.com/Kishoreuses/CERTIFICATIONS/Oracle Apex Cloud_page1.jpg" width="300px"/><br>
       <b>Oracle APEX Cloud Developer</b>
     </td>
     <td align="center" width="33%">
-      <img src="CERTIFICATIONS/Fundamentals of Deep Learning_page1.jpg" width="300px"/><br>
+      <img src="https://github.com/Kishoreuses/CERTIFICATIONS/Fundamentals of Deep Learning_page1.jpg" width="300px"/><br>
       <b>NVIDIA – Fundamentals of Deep Learning</b>
     </td>
   </tr>
