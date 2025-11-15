@@ -76,15 +76,15 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="certifications/Oracle Cloud Infrastructure Gen AI_page1.png" width="300px"/><br>
+      <img src="certifications/Oracle Cloud Infrastructure Gen AI_page1.jpg" width="300px"/><br>
       <b>Oracle Certified Generative AI Professional</b>
     </td>
     <td align="center" width="33%">
-      <img src="certifications/Oracle Apex Cloud_page1.png" width="300px"/><br>
+      <img src="certifications/Oracle Apex Cloud_page1.jpg" width="300px"/><br>
       <b>Oracle APEX Cloud Developer</b>
     </td>
     <td align="center" width="33%">
-      <img src="certifications/Fundamentals of Deep Learning_page1.png" width="300px"/><br>
+      <img src="certifications/Fundamentals of Deep Learning_page1.jpg" width="300px"/><br>
       <b>NVIDIA – Fundamentals of Deep Learning</b>
     </td>
   </tr>
