@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 Pursuing **M.Sc Software Systems** at Kongu Engineering College  
 - 🚀 Passionate about **Web Development, Mobile App Development & Java Backend**  
-- 📫 Reach me at: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
+- 📫 Email: **[Kishoreuses@gmail.com](mailto:Kishoreuses@gmail.com)**  
 - 💻 GitHub: [github.com/Kishoreuses](https://github.com/Kishoreuses)  
 - 📱 Phone: **+91 9677871881**  
 
@@ -17,24 +17,24 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kishore-s-9982982bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/kishoreuses/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-85%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode - 85 solved" />
+    <img src="https://img.shields.io/badge/LeetCode-85%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="mailto:Kishoreuses@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📈 LeetCode
+## 📈 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/u/kishoreuses/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kishoreuses?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/kishoreuses/">
+    <img src="https://leetcard.jacoblin.cool/kishoreuses?theme=dark&font=baloo&ext=heatmap" />
   </a>
-  <p align="center" style="margin-top:8px"><b>LeetCode problems solved:</b> <code>85</code></p>
+  <p align="center"><b>Problems Solved:</b> <code>85</code></p>
 </p>
 
 ---
@@ -43,47 +43,59 @@
 
 ### 💻 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter,react" alt="frontend icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter,react" />
 </p>
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,python,cpp,cs" alt="backend icons" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,cpp,cs" />
 </p>
 
 ### 🗄 Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🔧 Tools & Version Control  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
 
 ## 🎓 Education
-- 📚 **M.Sc Software Systems** – Kongu Engineering College, Perundurai (*CGPA: 8.55 till 6th sem*)  
-- 🏫 **HSC (2022)** – Nandhi Matric Hr. Sec. School, Erode (*84.3%*)  
-- 🏫 **SSLC (2020)** – Nandhi Matric Hr. Sec. School, Erode (*86.6%*)  
+- 📚 **M.Sc Software Systems** — Kongu Engineering College (*CGPA: 8.55 till 6th sem*)  
+- 🏫 **HSC (2022)** — 84.3%  
+- 🏫 **SSLC (2020)** — 86.6%  
 
 ---
 
-## 📜 Certifications
-- 🎖 **Oracle Certified Generative AI Professional** — Oracle Corporation (2025)  
-- 🎖 **Oracle APEX Cloud Developer** — Oracle Corporation (2025)  
-- 🎖 **Fundamentals of Deep Learning** — NVIDIA Deep Learning Institute (DLI) (2025)  
+## 📜 Certifications  
+<p align="center"><b>My Professional Certifications</b></p>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="certifications/Oracle Cloud Infrastructure Gen AI_page1.png" width="300px"/><br>
+      <b>Oracle Certified Generative AI Professional</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="certifications/Oracle Apex Cloud_page1.png" width="300px"/><br>
+      <b>Oracle APEX Cloud Developer</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="certifications/Fundamentals of Deep Learning_page1.png" width="300px"/><br>
+      <b>NVIDIA – Fundamentals of Deep Learning</b>
+    </td>
+  </tr>
+</table>
+
 
 ## 🧭 Area of Interest
-**(Java-focused, aligned to backend & full-stack roles)**
-
 - Java Application Development  
 - Object-Oriented Programming (OOP)  
 - Spring Boot & REST API Development  
-- Database-Driven Application Development (SQL, MongoDB, Firebase)  
+- Database-Driven Application Development  
 - Full-Stack Web Development  
 - Mobile App Development (Flutter)
 
@@ -95,19 +107,19 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">BIKEHOUSE</h3>
-      <p align="center">Web Application using React.js & MongoDB Atlas</p>
+      <p align="center">React.js + MongoDB Full-Stack Web App</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/FULLSTACK-BIKEHOUSE.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="Bikehouse Repo" />
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏗 Earthmovers App</h3>
-      <p align="center">Construction material rental & order tracking — Academic consultancy project</p>
+      <p align="center">Construction Material Rental & Order Tracking (Flutter + Firebase)</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/EarthMovers-APP-Consutancy.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="Earthmovers Repo" />
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
@@ -116,19 +128,19 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤝 Mentor Connect</h3>
-      <p align="center">Mobile app for student-mentor interaction (Smart India Hackathon)</p>
+      <p align="center">Student–Mentor Interaction App (Smart India Hackathon)</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/SIH-Mentor-Connect-PID1630.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="Mentor Connect Repo" />
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚴 Bike Inventory Management</h3>
-      <p align="center">Java JDBC mini project for managing bike inventory.</p>
+      <p align="center">Java JDBC Mini Project</p>
       <p align="center">
         <a href="https://github.com/Kishoreuses/Java_JDBC.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="Java JDBC Repo" />
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
@@ -138,29 +150,29 @@
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Prize** – Blind Code (Quantum Fest, KEC)  
-- 📑 Presented Paper – *Blockchain Technology* (Quantum Fest, KEC)  
-- 🥇 **1st Prize** – Project Presentation (*Mentor Connect*) (Spring Fest 2K24, KSR)  
+- 🥈 2nd Prize — Blind Code (Quantum Fest, KEC)  
+- 📑 Presented Paper — *Blockchain Technology*  
+- 🥇 1st Prize — Project Presentation (*Mentor Connect*)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishoreuses&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreuses&layout=compact&theme=radical" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishoreuses&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreuses&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishoreuses&theme=radical&hide_border=true" height="140" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishoreuses&theme=radical&hide_border=true" height="140" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishoreuses&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kishoreuses&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishoreuses&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kishoreuses&label=Profile%20Views&color=1abc9c&style=for-the-badge" />
 </p>
 
 ---
